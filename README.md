@@ -19,7 +19,7 @@ This project is a quiz application that allows users to take simple quiz. It inc
 - Result at the end of quiz
 
 ## Installation
-To run this project locally, follow these steps:
+To run this project locally, initially you need to install node.js then follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/sekhar-36/ReactJs-Quiz
